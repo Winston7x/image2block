@@ -1,2 +1,2 @@
-1.把一张图像平均分成若干块。
-2.并把每一块的像素进行保存。
+1.Divide an image into equal parts.
+2.And save the pixels of each piece.
